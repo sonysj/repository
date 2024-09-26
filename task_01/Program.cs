@@ -14,7 +14,8 @@ class Program
         Console.WriteLine("А я скажу,");
         Console.WriteLine("Что в этот миг");
         Console.WriteLine("Рождается она.");
-     
+
+        Console.ResetColor();
 
         Console.ReadKey();
 
